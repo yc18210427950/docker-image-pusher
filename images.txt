@@ -1,2 +1,24 @@
-nginx
+# alpine
+alpine:latest
+nginx:stable-alpine
+caddy:alpine
+# alpine node
+node:16-alpine
+node:18-alpine
+node:20-alpine
+# alpine php
+php:7.4-fpm-alpine
+php:8.1-fpm-alpine
+php:8.2-fpm-alpine
+php:8.3-fpm-alpine
+# alpine maven
+maven:3.6-openjdk-8
 admpub/nging:latest
+# bitnami laravel
+bitnami/laravel:10
+bitnami/laravel:11
+# bitnami gitea
+bitnami/gitea:1
+bitnami/nginx:latest
+bitnami/openresty:latest
+bitnami/trivy:latest
