@@ -14,6 +14,9 @@ php:8.3-fpm-alpine
 # alpine maven
 maven:3.6-openjdk-8
 admpub/nging:latest
+
+# bitnami
+
 # bitnami laravel
 bitnami/laravel:10
 bitnami/laravel:11
@@ -22,3 +25,6 @@ bitnami/gitea:1
 bitnami/nginx:latest
 bitnami/openresty:latest
 bitnami/trivy:latest
+
+# vscode
+linuxserver/code-server:latest
