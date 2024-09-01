@@ -1,5 +1,6 @@
 # alpine
 alpine:latest
+
 nginx:stable-alpine
 caddy:alpine
 # alpine node
@@ -28,3 +29,14 @@ bitnami/trivy:latest
 
 # vscode
 linuxserver/code-server:latest
+
+# ubuntu
+ubuntu:latest
+
+# debian
+debian:latest
+
+# rockylinux
+rockylinux:8
+rockylinux:9
+rockylinux:9.3
