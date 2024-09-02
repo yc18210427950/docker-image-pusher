@@ -48,3 +48,7 @@ harness/gitness
 # drone
 appleboy/drone-scp:latest
 appleboy/drone-ssh:latest
+
+# gitlab
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:latest
