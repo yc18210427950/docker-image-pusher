@@ -40,3 +40,6 @@ debian:latest
 rockylinux:8
 rockylinux:9
 rockylinux:9.3
+
+# git
+harness/gitness
