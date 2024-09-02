@@ -18,6 +18,7 @@ admpub/nging:latest
 
 # bitnami
 
+bitnami/git:latest
 # bitnami laravel
 bitnami/laravel:10
 bitnami/laravel:11
