@@ -44,3 +44,7 @@ rockylinux:9.3
 
 # git
 harness/gitness
+
+# drone
+appleboy/drone-scp:latest
+appleboy/drone-ssh:latest
