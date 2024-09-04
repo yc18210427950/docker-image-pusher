@@ -20,13 +20,13 @@ admpub/nging:latest
 
 bitnami/git:latest
 # bitnami laravel
-bitnami/laravel:10
+# bitnami/laravel:10
 bitnami/laravel:11
 # bitnami gitea
-bitnami/gitea:1
+# bitnami/gitea:1
 bitnami/nginx:latest
 bitnami/openresty:latest
-bitnami/trivy:latest
+# bitnami/trivy:latest
 
 # vscode
 linuxserver/code-server:latest
@@ -37,17 +37,17 @@ ubuntu:latest
 # debian
 debian:latest
 
-# rockylinux
-rockylinux:8
-rockylinux:9
-rockylinux:9.3
+# # rockylinux
+# rockylinux:8
+# rockylinux:9
+# rockylinux:9.3
 
 # git
 harness/gitness
 
-# drone
-appleboy/drone-scp:latest
-appleboy/drone-ssh:latest
+# # drone
+# appleboy/drone-scp:latest
+# appleboy/drone-ssh:latest
 
 # gitlab
 gitlab/gitlab-ce:latest
