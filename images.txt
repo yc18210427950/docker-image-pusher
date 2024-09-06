@@ -55,3 +55,7 @@ gitlab/gitlab-runner:latest
 
 # onedev
 1dev/server:latest
+
+# hyperf
+hyperf/hyperf:7.4-alpine-v3.11-swoole
+hyperf/hyperf:8.1-alpine-v3.18-swoole
