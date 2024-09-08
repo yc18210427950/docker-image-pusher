@@ -1,9 +1,11 @@
 # alpine
 alpine:latest
-
+# alpine nginx
+nginx:1.25-alpine
 nginx:stable-alpine
 caddy:alpine
 # alpine node
+node:14-alpine
 node:16-alpine
 node:18-alpine
 node:20-alpine
