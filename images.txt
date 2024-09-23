@@ -40,11 +40,6 @@ ubuntu:latest
 # debian
 debian:latest
 
-# # rockylinux
-# rockylinux:8
-# rockylinux:9
-# rockylinux:9.3
-
 # git
 harness/gitness
 
@@ -65,3 +60,8 @@ jpomdocker/jpom
 # hyperf
 hyperf/hyperf:7.4-alpine-v3.15-swoole
 hyperf/hyperf:8.1-alpine-v3.19-swoole
+
+# almalinux
+almalinux:latest
+# rockylinux
+rockylinux:9
