@@ -48,8 +48,8 @@ harness/gitness
 # appleboy/drone-ssh:latest
 
 # gitlab
-gitlab/gitlab-ce:latest
-gitlab/gitlab-runner:latest
+# gitlab/gitlab-ce:latest
+# gitlab/gitlab-runner:latest
 
 # onedev
 1dev/server:latest
@@ -58,8 +58,9 @@ gitlab/gitlab-runner:latest
 jpomdocker/jpom
 
 # hyperf
-hyperf/hyperf:7.4-alpine-v3.15-swoole
-hyperf/hyperf:8.1-alpine-v3.19-swoole
+# hyperf/hyperf:7.4-alpine-v3.15-swoole
+# hyperf/hyperf:8.1-alpine-v3.19-swoole
+hyperf/hyperf:latest
 
 # almalinux
 almalinux:latest
