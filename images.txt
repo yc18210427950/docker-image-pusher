@@ -54,7 +54,7 @@ gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
 
 # onedev
-1dev/server:latest
+# 1dev/server:latest
 
 # jpom
 jpomdocker/jpom
@@ -65,6 +65,6 @@ jpomdocker/jpom
 hyperf/hyperf:latest
 
 # almalinux
-#almalinux:latest
+# almalinux:latest
 # rockylinux
 #rockylinux:9
